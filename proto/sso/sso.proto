@@ -3,7 +3,7 @@ syntax = "proto3";
 package auth;
 
 
-option go_package = "chat.server;chat";
+option go_package = "sso.v1;sso";
 
 service Auth {
   rpc Register(RegisterRequest) returns (RegisterResponse);
