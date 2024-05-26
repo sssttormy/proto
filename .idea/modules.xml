@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/sso.iml" filepath="$PROJECT_DIR$/.idea/sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/proto.iml" filepath="$PROJECT_DIR$/.idea/proto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sso/.idea/sso.iml" filepath="$PROJECT_DIR$/../sso/.idea/sso.iml" />
     </modules>
   </component>
 </project>

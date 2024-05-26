@@ -4,7 +4,7 @@
 // - protoc             v4.25.3
 // source: sso.proto
 
-package chat
+package ssov1
 
 import (
 	context "context"
